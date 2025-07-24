@@ -50,7 +50,7 @@ Currently pursuing opportunities to contribute to impactful open-source and appl
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/p-kavya-samhitha/)](https://www.linkedin.com/in/p-kavya-samhitha/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/p-kavya-samhitha-65a308212)](www.linkedin.com/in/p-kavya-samhitha-65a308212)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:savya20014@gmail.com)](mailto:savya20014@gmail.com)
 
   
